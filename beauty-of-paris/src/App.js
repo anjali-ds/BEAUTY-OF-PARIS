@@ -5,7 +5,7 @@ import Test from './MyComponents/Test';
 function App() {
   return (
     <div className="App">
-      <h1>welcome to beauty of paris</h1>
+      <h1 className='abc'>welcome to beauty of paris</h1>
       <Test></Test>
     </div>
   );
